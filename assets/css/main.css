@@ -3907,3 +3907,9 @@ input, select, textarea {
 			}
 
 		}
+
+/* Skills */
+
+	.skills section i {
+		font-size: 100px;
+	}
