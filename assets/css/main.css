@@ -3931,8 +3931,20 @@ input, select, textarea {
 		background-color: #222222;
 	}
 
+	p#ghost-type {
+		color: #999999;
+		font-size: 20px;
+		font-weight: 200;
+	}
 
-	
+	#hello-world {
+		font-weight: 200;
+	}
+
 	#grinder {
 		white-space: nowrap;
+	}
+
+	section#intro {
+		background-image: url("../../images/starry-mountains.jpg");
 	}

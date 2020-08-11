@@ -21,12 +21,12 @@
 		// .delete(7, {delay: 250})
 		// .go();
 
-		.type("Software Developer", { delay: 300 })
-		.delete(18, { delay: 250 })
-		.type("Gamer", { delay: 300 })
-		.delete(5, { delay: 250 })
-		.type("Grinder", { delay: 300 })
-		.delete(7, { delay: 400 })
+		.type("Software Developer", { delay: 750 })
+		.delete(18, { delay: 350 })
+		.type("Gamer", { delay: 1000 })
+		.delete(5, { delay: 350 })
+		.type("Grinder", { delay: 1000 })
+		.delete(7, { delay: 200 })
 		.go();
 
 	var	$window = $(window),
