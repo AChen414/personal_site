@@ -6,6 +6,21 @@
 
 (function($) {
 
+	//Ghost typing
+
+	new TypeIt("#grinder", {
+		speed: 100,
+		loop: true,
+		breakLines: false
+	})
+		.type("A Software Developer", {delay: 300})
+		.delete(18, {delay: 250})
+		.type("Gamer", {delay: 300})
+		.delete(5, {delay: 250})
+		.type("Grinder", {delay: 300})
+		.delete(7, {delay: 250})
+		.go();
+
 	var	$window = $(window),
 		$body = $('body'),
 		$sidebar = $('#sidebar');
