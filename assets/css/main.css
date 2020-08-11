@@ -3912,10 +3912,15 @@ input, select, textarea {
 
 	.skills {
 		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.skills section {
+		margin: 2em;
 	}
 
 	.skills section i {
-		font-size: 100px;
+		font-size: 8em;
 	}
 
 /* Intro */
