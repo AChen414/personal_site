@@ -3263,6 +3263,12 @@ input, select, textarea {
 			background-color: #953d75;
 		}
 
+		/* Custom */
+		.wrapper.stylex {
+			background-color: #bb9977;
+		}
+		/*  */
+
 		.wrapper.fullscreen {
 			display: -moz-flex;
 			display: -webkit-flex;
@@ -3953,3 +3959,17 @@ input, select, textarea {
 	section#intro {
 		background-image: url("../../images/starry-mountains.jpg");
 	}
+
+/* About Me */
+	#zero img {
+		height: 15em;
+		width: auto;
+		margin-right: 2em;
+		/* position: absolute; */
+	}
+
+	#zero span {
+		line-height: 2.25em;
+		display: flex;
+		
+	}	
