@@ -1,0 +1,21 @@
+FitBook:
+Led a team of three developers to create an app where users can record their workouts,
+keep a log of custom exercises, and track their progress over time. Users can sign up securely,
+create workouts consisting of exercises that they can create, track multiple stats
+such as weight and notes on these exercises, and track their workouts on a responsive calendar. 
+I led the team in planning features, reviewed development team code, and managed the git workflow. 
+The app was made using the MERN stack (MongoDB, Express, React, and Nodejs).
+
+Conga Quest:
+Created a snakelike game with elements of an RPG. 
+You control a conga line of adventurers as you fight monsters in a dungeon. 
+Use the arrow keys to move. Be careful not to crash into the enemies or walls. 
+Try to kill as many enemies to get a new high score! 
+Created using only JavaScript, HTML, and CSS. 
+Utilized Object Oriented Programming to create code that is easy to scale complexity and features.
+
+The Cord:
+A clone of the Discord web app. 
+Allows creation of a new user with user authentication, server and channel CRUD, and live messaging. 
+Created using Ruby on Rails in the backend, PostgreSQL as a database, React as the frontend library 
+and Redux as state management.
